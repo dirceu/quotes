@@ -33,9 +33,8 @@ export default class MyPage extends React.Component {
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           <meta charset="utf-8" />
           <style jsx>{`
-            @import url('https://fonts.googleapis.com/css?family=Montserrat:700');
             * {
-              font-family: 'Montserrat', sans-serif;
+              font-family: sans-serif;
               font-weight: bold;
               background-color: ${this.props.color};
               color: #FFFFFF;
