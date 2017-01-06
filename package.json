@@ -10,5 +10,8 @@
   "author": "Dirceu Pereira Tiegs <dirceutiegs@gmail.com>",
   "dependencies": {
     "next": "^1.2.3"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
   }
 }
